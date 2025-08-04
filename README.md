@@ -1,4 +1,4 @@
-# Hi, I'm Hawi 👋
+# Hi, I'm Hawi 
 
 
 <!--START_SECTION:waka-->
